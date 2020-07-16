@@ -1,0 +1,14 @@
+{
+  "name": "tradingview-desktop",
+  "version": "0.0.1",
+  "description": "Complete TradingView experience for the desktop inclined folk",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron app.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "electron": "*",
+    "javascript-obfuscator": "^1.7.0"
+  }
+}
